@@ -1,2 +1,3 @@
 # README
-newbie
+cin >> "Nevermore";
+cout << "Z", "X", "C";
