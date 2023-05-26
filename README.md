@@ -1,3 +1,5 @@
 # README
-cin >> "Nevermore";
-cout << "Z", "X", "C";
+Data Scientist
+Learning Python, C++ and Unreal Engine 5
+Originally from Kyrgyzstan, currently in Portugal
+In love with Gamedev
